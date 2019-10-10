@@ -1,0 +1,2 @@
+# Mnist practice
+ for class
