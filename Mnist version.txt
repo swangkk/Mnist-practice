@@ -1,3 +1,5 @@
 Mnist V1 : 아주 기본 Mnist
-Mnist V2 : CNN 적용, loss 그래프 추가
+Mnist V2 : CNN 적용, loss 그래프 추가 0.990
+         2.1 : Dropout 0.991
+         2.2 : CNN 두겹 0.994
 Mnist V3 : 교차검증셋
